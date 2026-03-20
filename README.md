@@ -26,7 +26,13 @@
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
 
-### 💻 Programming
+### 🔄 CI/CD
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+### 💻 Scripting
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
@@ -41,7 +47,7 @@
 
 
 
-## 🐍 Contribution Snake
+## 🐍 Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shrunkhalhood/shrunkhalhood/output/github-contribution-grid-snake.svg" />
