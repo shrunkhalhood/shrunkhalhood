@@ -46,14 +46,6 @@
 </p>
 
 
-
-## 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shrunkhalhood/shrunkhalhood/output/github-contribution-grid-snake.svg" />
-</p>
-
-
 ---
 
 ## 🔥 Current Focus
