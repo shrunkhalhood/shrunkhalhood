@@ -1,16 +1,71 @@
-## Hi there 👋
+<!-- Typing Animation -->
+<h1 align="center">
+  Hi 👋, I'm Shrunkhal Hood
+</h1>
 
-<!--
-**shrunkhalhood/shrunkhalhood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Cloud+%26+DevOps+Engineer;Automation+Enthusiast;AWS+%7C+Kubernetes+%7C+Terraform;Building+AI-Powered+DevOps+Tools" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Building **real-world DevOps projects**
+- 🌱 Learning **AWS, Kubernetes, Terraform, CI/CD**
+- 🤖 Exploring **AI + DevOps (Agentic AI)**
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+</p>
+
+### 💻 Programming
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shrunkhalhood&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=shrunkhalhood&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Current Focus
+- 🚀 Kubernetes  
+- ☁️ AWS Architecture  
+- 🤖 AI-powered DevOps Automation  
+
+---
+
+## 📫 Connect With Me
+<p>
+  <a href="mailto:shrunkhalhood@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ *"Automate everything. Scale anything. Learn continuously."*
+
