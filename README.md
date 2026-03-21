@@ -10,9 +10,9 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Building **real-world DevOps projects**
-- 🌱 Learning **AWS, Kubernetes, Terraform, CI/CD**
-- 🤖 Exploring **AI + DevOps (Agentic AI)**
+- Building **real-world DevOps projects**
+- Learning **AWS, Kubernetes, Terraform, CI/CD**
+- Exploring **AI + DevOps (Agentic AI)**
 
 ---
 
@@ -49,9 +49,9 @@
 ---
 
 ## 🔥 Current Focus
-- 🚀 Kubernetes  
-- ☁️ AWS Architecture  
-- 🤖 AI-powered DevOps Automation  
+- Kubernetes  
+- AWS Architecture  
+- AI-powered DevOps Automation  
 
 ---
 
