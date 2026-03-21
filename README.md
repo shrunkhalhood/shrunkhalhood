@@ -4,14 +4,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Cloud+%26+DevOps+Engineer;Automation+Enthusiast;AWS+%7C+Kubernetes+%7C+Terraform;Building+AI-Powered+DevOps+Tools" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Cloud+%26+DevOps+Engineer;Automation+Enthusiast;AWS+%7C+Kubernetes+%7C+CI/CD;Building+AI-Powered+DevOps+Tools" />
 </p>
 
 ---
 
 ## 🚀 About Me
 - Building **real-world DevOps projects**
-- Learning **AWS, Kubernetes, Terraform, CI/CD**
+- Learning **AWS, Kubernetes, CI/CD**
 - Exploring **AI + DevOps (Agentic AI)**
 
 ---
@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
 
 ### 🔄 CI/CD
