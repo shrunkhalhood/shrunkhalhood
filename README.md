@@ -56,11 +56,11 @@
 
 ## 📫 Connect With Me
 <p>
-  <a href="mailto:shrunkhalhood@gmail.com">
+  <a href="mailto:shrunkhalhood@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/shrunkhal-hood-a2217129b">
+  <a href="https://www.linkedin.com/in/shrunkhal-hood-a2217129b" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
