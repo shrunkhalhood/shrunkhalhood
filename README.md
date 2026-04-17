@@ -61,7 +61,7 @@
   </a>
 </p>
 <p>
-  <a href="https://linkedin.com/in/Shrunkhal Hood">
+  <a href="https://linkedin.com/in/Shrunkhal-Hood">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
